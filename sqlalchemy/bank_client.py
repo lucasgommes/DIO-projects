@@ -65,3 +65,4 @@ with Session(engine) as session:
     # Sending data for database
     session.add_all([lukas, ana])
     session.commit()
+    
