@@ -50,5 +50,3 @@ def add_dev():
          return jsonify(devs)
 
 app.run(debug=True)
-
-devs.update()
