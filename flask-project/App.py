@@ -9,7 +9,7 @@ api_example = {
     "Name": "Lucas",
     "Git": "/lucasgommes",
     "Language": "Python, Java",
-    "Framwork": "Flask, Spring"
+    "Framework": "Flask, Spring"
 }
 
 
